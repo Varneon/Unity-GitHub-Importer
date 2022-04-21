@@ -7,3 +7,4 @@
 !/Packages
 /Packages/*
 !/Packages/com.varneon.github-importer
+!/Packages/com.varneon.webrequestwrapper
